@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 2.8 s <<< FAILURE! - in TestSuite
-sample.DemoTest2.testcase_005  Time elapsed: 0.039 s  <<< FAILURE!
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 1, Time elapsed: 1.849 s <<< FAILURE! - in TestSuite
+sample.DemoTest2.testcase_005  Time elapsed: 0.017 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at sample.DemoTest2.testcase_005(DemoTest2.java:15)
 
-sample.DemoTest1.testcase_002  Time elapsed: 0.002 s  <<< FAILURE!
+sample.DemoTest1.testcase_002  Time elapsed: 0.001 s  <<< FAILURE!
 java.lang.AssertionError: expected [true] but found [false]
 	at sample.DemoTest1.testcase_002(DemoTest1.java:16)
 
